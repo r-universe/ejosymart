@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gnomonicM"]
 	path = gnomonicM
 	url = https://github.com/ejosymart/gnomonicm
-	shallow = true
-	registered = true
 [submodule "sizeMat"]
 	path = sizeMat
 	url = https://github.com/ejosymart/sizemat
-	shallow = true
-	registered = true
